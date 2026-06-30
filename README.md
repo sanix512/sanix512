@@ -20,8 +20,6 @@ I'm a Computer Science graduate passionate about building scalable software, mod
 
 # Skills
 
-<h2>💻 Skills</h2>
-
 <p>
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" />
