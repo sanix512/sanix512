@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham Singh
 
-### 🚀 Software Developer • Full-Stack • AI & Automation
+## Software Developer • Full-Stack • AI & Automation
 
 **Building solutions through code.**
 
