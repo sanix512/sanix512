@@ -37,7 +37,7 @@ I'm a Computer Science graduate passionate about building scalable software, mod
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsinghx512@gmail.com)
+[![Email](https://img.shields.io/badge/Email-streamxpulse@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:streamxpulse@gmail.com)
 ---
 
 > *"Building solutions through code."*
