@@ -21,7 +21,7 @@ I'm a Computer Science graduate passionate about building scalable software, mod
 # Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,express,react,flask,mysql,sqlite,tensorflow,docker,git,github,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,express,react,flask,tensorflow,docker,git,linux&perline=10" />
 </p>
 
 ---
